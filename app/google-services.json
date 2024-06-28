@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054020692487",
+    "project_id": "gym-management-systm",
+    "storage_bucket": "gym-management-systm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054020692487:android:c6b91ef860ffa8941a18a2",
+        "android_client_info": {
+          "package_name": "com.gymdatapro.gymmanagementsystm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrWJW8PxGXMBxAwFFBoiDJBS1G_M7vsQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

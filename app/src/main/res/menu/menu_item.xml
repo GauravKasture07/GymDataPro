@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/home"
+            />
+
+        <item
+            android:id="@+id/nav_fee_pending"
+            android:icon="@drawable/baseline_currency_rupee_24"
+            android:title="@string/fee_pending"     />
+        <item
+            android:id="@+id/nav_add"
+            android:icon="@drawable/baseline_add_circle_24"
+            android:title="@string/add_member"     />
+        <item
+            android:id="@+id/nav_update_fee"
+            android:icon="@drawable/baseline_pending_actions_24"
+            android:title="@string/update_fee"     />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/baseline_logout_24"
+            android:title="@string/logout"     />
+
+</menu>

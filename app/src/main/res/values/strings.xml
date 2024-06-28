@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GymDataPro</string>
+    <string name="home">Home</string>
+    <string name="add_member">Add Member</string>
+    <string name="fee_pending">Fee Pending</string>
+    <string name="setting">Setting</string>
+    <string name="update_fee">Update Fee</string>
+    <string name="logout">Logout</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_0_00">0.00</string>
+    <string-array name="membership">
+        <item >Select</item>
+        <item>1 Month</item>
+        <item>3 Month</item>
+        <item>6 Month</item>
+        <item>1 Year</item>
+        <item>3 Year</item>
+    </string-array>
+</resources>
