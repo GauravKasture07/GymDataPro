@@ -1,15 +1,34 @@
-# Gym Data Management App
+# Gym Membership Management App
 
-Welcome to the Gym Data Management App! This application is designed to help gym owners manage their member data efficiently.
+## Overview
+This application is designed to streamline the management of gym membership data. It allows gym owners to efficiently handle new member registrations, track subscription statuses, and send notifications for renewals.
 
 ## Features
+- **New Member Registration**: When a new member joins, the gym owner can add their information through a registration form. Upon submission, a membership card is created for the user.
+- **Subscription Tracking**: The application automatically moves the member's card to the "Fee Pending" section when their subscription expires.
+- **Notifications**: Members receive a notification via SMS when their subscription expires.
+- **Member Follow-up**: The "Fee Pending" section includes options for the gym owner to call and update the member's status.
+- **Fee Update**: The gym owner can update the membership fee details in the "Update Fee" section.
+- **Auto-Fill Form**: When selecting the joining date, the form auto-fills related data such as the expiration date and total amount due.
 
-- **Member Registration**: Easily add new members by filling out a registration form with their information.
-- **Member Cards**: Upon submitting the registration form, a member card is created for each new member.
-- **Subscription Management**: Track subscription statuses. When a member's subscription expires, their card moves to the "Fee Pending" section.
-- **Follow-up Options**: The app provides options to call members and update their subscription status directly from the phone.
+## Usage
+1. **Registering a New Member**:
+   - Open the registration form.
+   - Fill in the member's information.
+   - Submit the form to create a membership card.
 
-This app is tailored for gym owners to streamline their membership management processes, ensuring a smooth and organized operation.
+2. **Managing Expired Subscriptions**:
+   - Check the "Fee Pending" section for expired memberships.
+   - Use the call and update options to follow up with members.
+   - Update fee details as needed.
+
+3. **Notifications**:
+   - Members will automatically receive an SMS notification when their subscription expires.
+
+4. **Auto-Fill Feature**:
+   - Select the joining date in the form to automatically fill in the expiration date and total amount.
+
+This application ensures efficient and organized management of gym memberships, making it easier for gym owners to keep track of member subscriptions and follow up on renewals.
 
 ## Outputs
 
